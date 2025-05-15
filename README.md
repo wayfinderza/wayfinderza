@@ -1,25 +1,25 @@
 # Hi there 👋  
-I am Shaun — a Business Analyst and developer with a strong interest in logic, language, and intelligent systems.
+- My name is Shaun — a Business Analyst and developer.
 
 ## 🛠️ What I am working on
 
-### 🧠 Phink — a web-based vectorised knowledge network that explores structured meaning and relationships between concepts.  
-Using Python, spaCy, PostgreSQL, GraphQL, Node.js, and Solid.js to build a fully integrated pipeline for parsing, seeding, and querying structured content enhanced by AI models.
+### φ Phink — a web-based vectorised knowledge network that explores structured meaning and relationships between concepts.  
+- Using Python, spaCy, PostgreSQL, GraphQL, Node.js, and Solid.js to build a fully integrated pipeline for parsing, seeding, and querying structured content enhanced by AI models.
 
 ### 🧪 Dabbling with logic implementations using discrete mathematics.
 
 ## 📖 Currently learning
 
 ### 🔬 The IBM Data Science Professional Certificate  
-To round out my formal grounding in data science and applied machine learning.
+- To round out my formal grounding in data science and applied machine learning.
 
 ## 📦 Skills & Tools
 
-**Programming**: Python, JavaScript, SQL, C++, PowerShell  
-**Data Science**: Pandas, NumPy, scikit-learn, TensorFlow, Keras, Power BI  
-**Backend**: Node.js, GraphQL, PostgreSQL, Prisma  
-**Frontend**: Solid.js, HTML/CSS, styled-components  
-**Other**: Git, VS Code, Agile delivery, systems analysis, Prolog, formal logic
+- **Programming**: Python, JavaScript, SQL, C++, PowerShell  
+- **Data Science**: Pandas, NumPy, scikit-learn, TensorFlow, Keras, Power BI  
+- **Backend**: Node.js, GraphQL, PostgreSQL, Prisma  
+- **Frontend**: Solid.js, HTML/CSS, styled-components  
+- **Other**: Git, VS Code, Agile delivery, systems analysis, Prolog, formal logic
 
 ## 🚀 Projects of Note
 
